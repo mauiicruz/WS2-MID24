@@ -1,0 +1,13 @@
+:root {
+    --bg: #fafafa;
+    --font: "Silkscreen", sans-serif;
+    --font-display:"Silkscreen", sans-serif;
+    --hotpink: #e94057;
+    --orange: #f27127;
+    --gradient: linear-gradient(35deg, var(--orange), var(--hotpink));
+}
+
+body{
+    min-height: 100vh;
+    background: var(--bg);
+}
